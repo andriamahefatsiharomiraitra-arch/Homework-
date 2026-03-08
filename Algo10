@@ -1,0 +1,21 @@
+Algorithme 10
+*Algorithm PerimetreRectangle*
+
+Variable:
+L reel
+l reel
+p reel
+
+Debut
+
+AFFICHER "Entrer longueur:"
+LIRE(L)
+
+AFFICHER "Entrer largeur:"
+LIRE(l)
+
+p <- 2 * (L + l)
+
+AFFICHER "Perimetre:", p
+
+Fin
