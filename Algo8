@@ -1,0 +1,21 @@
+Algorithme 8
+*Algorithm Equation*
+
+Variable:
+a reel
+b reel
+x reel
+
+Debut
+
+AFFICHER "Entrer a:"
+LIRE(a)
+
+AFFICHER "Entrer b:"
+LIRE(b)
+
+x <- -(b / a)
+
+AFFICHER "Valeur de x:", x
+
+Fin
