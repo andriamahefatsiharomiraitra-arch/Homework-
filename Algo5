@@ -1,0 +1,21 @@
+Algorithme 5
+*Algorithm SurfaceRectangle*
+
+Variable:
+L reel
+l reel
+s reel
+
+Debut
+
+AFFICHER "Entrer longueur:"
+LIRE(L)
+
+AFFICHER "Entrer largeur:"
+LIRE(l)
+
+s <- L * l
+
+AFFICHER "Surface:", s
+
+Fin
