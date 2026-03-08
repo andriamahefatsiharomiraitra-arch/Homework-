@@ -1,0 +1,17 @@
+Algorithme 6
+*Algorithm AireCercle*
+
+Variable:
+r reel
+A reel
+
+Debut
+
+AFFICHER "Entrer rayon:"
+LIRE(r)
+
+A <- 3.14 * r * r
+
+AFFICHER "Aire:", A
+
+Fin
