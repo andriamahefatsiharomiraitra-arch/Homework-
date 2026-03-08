@@ -1,0 +1,17 @@
+Algorithme 3
+Algorithm Carre
+
+Variable:
+a reel
+c reel
+
+Debut
+
+AFFICHER "Entrer un nombre:"
+LIRE(a)
+
+c <- a * a
+
+AFFICHER "Le carre est:", c
+
+Fin
